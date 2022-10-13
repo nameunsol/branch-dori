@@ -110,4 +110,4 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
-print("왜 수정 내역이 안 뜰까요.")
+print("충돌 수정.")
