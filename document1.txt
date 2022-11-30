@@ -1,4 +1,4 @@
-def partition(l, r, nums):
+임정우 123 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
     for i in range(l, r):
@@ -14,7 +14,7 @@ def partition(l, r, nums):
 # at which the left values are all smaller than the number at pointer index and vice versa
 # for the right values.
  
- 
+ 임정우123
 def quicksort(l, r, nums):
     if len(nums) == 1:  # Terminating Condition for recursion. VERY IMPORTANT!
         return nums
